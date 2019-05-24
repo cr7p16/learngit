@@ -5,3 +5,4 @@ Git has nutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple
 merge dev
+add origin/dev
